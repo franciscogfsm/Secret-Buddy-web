@@ -8,6 +8,8 @@ module.exports = {
   theme: {
     extend: {
       colors: {
+        accentBlue: "#2360FF",
+        accentBlueDark: "#0F2A8C",
         background: "#05030C",
         surface: "#0B0520",
         surfaceSecondary: "#140A35",
@@ -25,6 +27,7 @@ module.exports = {
       backgroundImage: {
         "purple-pink": "linear-gradient(135deg, #6C3BFF 0%, #FF4FB7 100%)",
         "teal-blue": "linear-gradient(135deg, #1FC7B4 0%, #2360FF 100%)",
+        "blue-accent": "linear-gradient(135deg, #2360FF 0%, #6C8CFF 100%)",
         sunset: "linear-gradient(135deg, #FF7750 0%, #FF2E92 100%)",
         midnight: "linear-gradient(135deg, #070319 0%, #1C0E3C 100%)",
       },
