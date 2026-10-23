@@ -1,4 +1,24 @@
+<div align="center">
+
 # SecretBuddy Web
+
+The landing page and legal pages for the SecretBuddy app.
+
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" alt="React">
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript">
+<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white" alt="Tailwind CSS">
+<img src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white" alt="Vite">
+<img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white" alt="Vercel">
+
+<sub>
+<a href="https://github.com/franciscogfsm/SecretBuddy">The app</a> &nbsp;·&nbsp;
+<a href="PRIVACY_POLICY.md">Privacy</a> &nbsp;·&nbsp;
+<a href="TERMS_OF_SERVICE.md">Terms</a>
+</sub>
+
+</div>
+
+<br>
 
 A modern, mobile-first website for the SecretBuddy app featuring a landing page and privacy policy.
 
